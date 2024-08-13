@@ -1,0 +1,27 @@
+.container{
+    border: 2px solid red;
+    display: flex;
+}
+header{
+    border: 2px solid orange;
+   
+
+}
+aside{
+    border: 2px solid yellow;
+
+ 
+}
+article{
+    border: 2px solid greenyellow;
+  
+}
+footer{
+    border: 2px solid blue;
+    
+}
+/* @media (max-width:100px){
+    .container{
+        flex-direction: column;
+    }
+} */
